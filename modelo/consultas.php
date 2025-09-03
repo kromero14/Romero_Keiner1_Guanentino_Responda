@@ -21,6 +21,12 @@
         <br>
         <a href="../consulta_admin.php">
         <button type = "submit">Administrador</button>
+        <br>
+        <a href="../consulta_pregunta.php">
+        <button type = "submit">Pregunta</button>
+        <br>
+        <a href="../consulta_opcion_respuesta.php">
+        <button type = "submit">Opciones de Respuesta</button>
     <br>
     <hr>
     <h2>Salir</h2>

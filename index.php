@@ -9,22 +9,39 @@
     <center>
         <h1>Bienvenido a ¡Guanentino, Responda!</h1>
 
+        <h2>Información de nuestro proyecto</h2>
+        <img src="img/guanentino.jpg" alt="" height="350" width="500">
+
+<p><strong>Descripción:</strong> Estrategia del Colegio Guanentá para preparar a los estudiantes de 10° y 11° en el examen Saber 11.</p>
+
+<p><strong>Metodología:</strong> Simulacros periódicos tipo ICFES, talleres de refuerzo, retroalimentación docente y uso de plataforma virtual.</p>
+
+<p><strong>Participación:</strong> Estudiantes de grados superiores con acompañamiento de docentes y coordinadores.</p>
+
+<p><strong>Seguimiento:</strong> Registro de puntajes, análisis de avances y planes de refuerzo individual.</p>
+
+<p><strong>Impacto:</strong> Mejora en los resultados, confianza estudiantil y fortalecimiento académico institucional.</p>
+
+<br>
+
         <a href="generalidades.php">
             <button type="submit">Colegio Guanentá</button>
         </a>
 
         <a href="informacion_saber.php">
             <button type="submit">Información Saber 11</button>
-        </a>
-
-        <a href="guanentino.php">
-            <button type="submit">Información Guanentino Responda</button>
-        </a>
+        </a>    
         <br>
         <br>
         <a href="home_inicio_sesion.php">
             <button type="submit">Iniciar sesión</button>
         </a>
+
+        <footer>
+    <p>&copy; 2025 Proyecto ¡Guanentino, Responda! - Colegio San José de Guanentá.</p>
+    <p>Autor: Keiner Santiago  Romero Delgado - Especialidad en Sistemas</p>
+</footer>
+
 
     </center>
     <h1></h1>

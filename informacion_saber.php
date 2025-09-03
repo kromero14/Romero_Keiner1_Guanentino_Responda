@@ -39,7 +39,6 @@
         <li>Cuadernillo de preguntas.</p>
         <li>Hoja de respuestas.</p>
         <li>Hoja de operaciones.</p>
-        <li>Kits especiales (braille, geometría, tiflológico) según necesidad.</p>
 
     <br>
         <a href="index.php">
