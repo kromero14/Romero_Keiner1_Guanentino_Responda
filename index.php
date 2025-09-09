@@ -84,7 +84,8 @@
      <center>
     <h2>Información de nuestro proyecto</h2>
         <img src="img/favico.jpg" alt="" height="350" width="500">
-
+        <br>
+        <br>
 <p><strong>Descripción:</strong> Estrategia del Colegio Guanentá para preparar a los estudiantes de 10° y 11° en el examen Saber 11.</p>
 
 <p><strong>Metodología:</strong> Simulacros repetidos tipo ICFES, talleres de refuerzo, retroalimentación docente y uso de plataforma virtual.</p>
