@@ -6,6 +6,7 @@
     <title>Login</title>
 </head>
 <body>
+    <card>
     <center>
         <h1>Iniciar sesión para administradores</h1>
         <link rel="stylesheet" href="style2.css">
@@ -19,6 +20,7 @@
             <input type="text" name="contraseña" id="" required>
             <br><br>
             <button type="submit">Ingresar</button>
+    </card> 
         </form>
     </center>
 </body>

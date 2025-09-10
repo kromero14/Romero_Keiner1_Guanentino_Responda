@@ -86,16 +86,59 @@
         <img src="img/favico.jpg" alt="" height="350" width="500">
         <br>
         <br>
-<p><strong>Descripción:</strong> Estrategia del Colegio Guanentá para preparar a los estudiantes de 10° y 11° en el examen Saber 11.</p>
+        <h2>🎯Objetivos del proyecto</h2>
+        <h3>Objetivo general:</h3>
 
-<p><strong>Metodología:</strong> Simulacros repetidos tipo ICFES, talleres de refuerzo, retroalimentación docente y uso de plataforma virtual.</p>
+<p><strong>Motivar y preparar a los jóvenes para presentar el examen Saber 11 – ICFES<br> mediante recursos pedagógicos, interactivos y accesibles.</p></strong>
 
-<p><strong>Participación:</strong> Estudiantes de grados superiores con acompañamiento de docentes y coordinadores.</p>
+<h3>Objetivos específicos:</h3>
 
-<p><strong>Seguimiento:</strong> Registro de puntajes, análisis de avances y planes de refuerzo individual.</p>
+<p><strong>Fortalecer competencias en áreas evaluadas por el ICFES (lectura crítica, matemáticas, sociales y ciudadanas, ciencias naturales e inglés).</strong></p>
 
-<p><strong>Impacto:</strong> Mejora en los resultados, confianza estudiantil y fortalecimiento académico institucional.</p>
+<p><strong>Ofrecer simulacros y cuestionarios interactivos que repliquen la experiencia real del examen.</strong></p>
 
+<p><strong>Generar motivación y disciplina a través de retos, juegos y dinámicas que hagan atractivo el estudio.</strong></p>
+
+<p><strong>Involucrar a docentes y estudiantes en un sistema de seguimiento al progreso académico.</strong></p>
+
+<p><strong>Reducir la ansiedad ante el examen, brindando estrategias de preparación y manejo del tiempo.</strong></p>
+
+<h3>📚 Justificación</h3>
+
+<p><strong>El ICFES Saber 11 es una prueba fundamental para el futuro académico de los estudiantes, pues influye en:</strong></p>
+
+<p><strong>La admisión a universidades públicas y privadas.</strong></p>
+
+<p><strong>La obtención de becas y créditos educativos.</strong></p>
+
+<p><strong>El reconocimiento académico de los colegios.</strong></p>
+
+<h3>🛠️ Metodología</h3>
+
+<p><strong>Plataforma web educativa con:</strong></p>
+
+    <p><strong>Banco de preguntas tipo Saber 11.</strong></p>
+
+    <p><strong>Simulacros por áreas.</strong></p>
+
+    <p><strong>Resultados automáticos y análisis de respuestas.</strong></p>
+
+
+<h3>📊 Impacto esperado</h3>
+
+<p><strong>Mayor nivel de preparación de los estudiantes de grado 11.</strong></p>
+
+<p><strong>Incremento en los puntajes promedio del colegio en las pruebas Saber 11.</strong></p>
+
+<p><strong>Reducción de la brecha entre estudiantes con y sin acceso a cursos privados de preparación.</strong></p>
+
+<p><strong>Fomento de la autoestima académica y la confianza en los jóvenes.</strong></p>
+
+<h3>🌍 Alcance</h3>
+
+<p><strong>Principalmente: Estudiantes del Colegio San José de Guanentá.</strong></p>
+
+<p></p>
 <br>
 </center>
     <!-- Footer Start -->
