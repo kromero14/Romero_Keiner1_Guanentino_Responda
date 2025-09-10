@@ -1,4 +1,4 @@
-### guanentino_responda
+### ¡Guanentino, Responda!
 
 # Pantallazos de la página
 
@@ -22,6 +22,84 @@
 * Inicio sesión
 
 ![Texto alternativo](img/sesión.jpg)
+
+* Página administrador
+
+![Texto alternativo](img/pag_admin.jpg)
+
+* Página Consultas
+
+![Texto alternativo](img/consultas.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
